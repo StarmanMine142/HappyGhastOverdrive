@@ -13,6 +13,7 @@ public class HappyGhastOverdrive implements ModInitializer {
 	@Override
 	public void onInitialize() {
         ModEnchantments.initialize();
+        ModItemGroups.register();
         LootModifier.register();
 	}
 }
