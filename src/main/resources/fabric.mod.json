@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "happy_ghast_overdrive",
+  "version": "${version}",
+  "name": "Happy Ghast Overdrive",
+  "description": "Provides a new enchantment to improve the harness.",
+  "authors": [
+    "makson4986"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/happy_ghast_overdrive/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.makson.HappyGhastOverdrive"
+    ],
+    "fabric-datagen": [
+      "com.makson.datagen.HappyGhastOverdriveDataGenerator"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
