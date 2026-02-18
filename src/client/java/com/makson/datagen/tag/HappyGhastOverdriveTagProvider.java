@@ -1,6 +1,6 @@
 package com.makson.datagen.tag;
 
-import com.makson.enchantment.ModEnchantments;
+import com.makson.ModEnchantments;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.minecraft.core.HolderLookup;

@@ -1,6 +1,5 @@
-package com.makson.loot_table;
+package com.makson;
 
-import com.makson.enchantment.ModEnchantments;
 import net.fabricmc.fabric.api.loot.v3.LootTableEvents;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.registries.Registries;

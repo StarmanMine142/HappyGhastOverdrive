@@ -1,7 +1,7 @@
 package com.makson.datagen.enchantment;
 
 import com.makson.HappyGhastOverdrive;
-import com.makson.enchantment.ModEnchantments;
+import com.makson.ModEnchantments;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricDynamicRegistryProvider;
 import net.minecraft.core.HolderLookup;

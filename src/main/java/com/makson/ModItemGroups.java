@@ -1,6 +1,5 @@
 package com.makson;
 
-import com.makson.enchantment.ModEnchantments;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.CreativeModeTabs;

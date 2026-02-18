@@ -1,6 +1,5 @@
-package com.makson.enchantment;
+package com.makson;
 
-import com.makson.HappyGhastOverdrive;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;

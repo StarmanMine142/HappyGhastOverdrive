@@ -1,7 +1,5 @@
 package com.makson;
 
-import com.makson.enchantment.ModEnchantments;
-import com.makson.loot_table.LootModifier;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
