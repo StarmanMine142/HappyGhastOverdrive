@@ -7,6 +7,10 @@
   "authors": [
     "makson4986"
   ],
+  "contact": {
+    "sources": "https://github.com/makson4986/HappyGhastOverdrive.git",
+    "modrinth": "https://modrinth.com/mod/happy-ghast-overdrive"
+  },
   "license": "CC0-1.0",
   "icon": "assets/happy_ghast_overdrive/icon.png",
   "environment": "*",
