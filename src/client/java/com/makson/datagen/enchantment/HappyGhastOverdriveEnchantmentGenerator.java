@@ -60,7 +60,7 @@ public class HappyGhastOverdriveEnchantmentGenerator extends FabricDynamicRegist
                                 new EnchantmentAttributeEffect(
                                         Identifier.fromNamespaceAndPath(HappyGhastOverdrive.MOD_ID, "aerial_swiftness"),
                                         Attributes.FLYING_SPEED,
-                                        LevelBasedValue.perLevel(0.01f, 0.025f),
+                                        LevelBasedValue.perLevel(0.01f, 0.02f),
                                         AttributeModifier.Operation.ADD_VALUE
                                 )
                         )
